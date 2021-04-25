@@ -1,0 +1,11 @@
+html{
+    text-align:center;
+  }
+  #next{
+    height:50px;
+    width:50px;
+  }
+  #reason{
+    font-size:40px;
+    color:rgb(0, 38, 255);
+  }
